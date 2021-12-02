@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Fran Gámez
-<p>Welcome to my page! </br> I'm Fran Gámez, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Málaga, Spain</b>. </p>
+<p>Welcome to my page! </br> I'm Fran Gámez, Fullstack developer from <b>Málaga, Spain</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -12,13 +12,14 @@
 🔭 I’m currently working:
 
 <h3>Open source projects</h3>
-## Social Crypto Stats
+
+- ## Social Crypto Stats
 ![alt Social Crypto Stats project](https://github.com/fgamezf/socialcryptostats/blob/5be76ee0d0a53db7376bd3b33f27d4992ab04a68/screenshot/socialcryptostats.png)
 
-## EasyCustomerFeedback
+- ## EasyCustomerFeedback
 ![alt EasyCustomerFeedback project](https://eventicrea.es/wp-content/uploads/2021/09/easycf.png)
 
-## deComprasPorLaRed
+- ## deComprasPorLaRed
 ![alt deComprasPorLaRed project](https://decomprasporlared.com/wp-content/uploads/2021/02/productos_store_v21-min.png)
 
 <!--
