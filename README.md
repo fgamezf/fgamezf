@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fgamezf&label=Profile%20views&color=0e75b6&style=flat" alt="fgamezf" /> </p>
 
-- 🔭 I’m currently working on [Social Crypto Stats project](https://socialcrypto.decomprasporlared.com)
+- 🔭 I’m currently working on [EasyCustomerFeedback project](https://eventicrea.es/proyecto-easycustomerfeedback/)
 
 - 🌱 I’m currently learning **Cloud, Kubernetes, Web3, Solidity, NFT**
 
