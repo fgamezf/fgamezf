@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Cloud, Kubernetes, Web3, Solidity, NFT**
 
-- 👯 I’m looking to collaborate on [Against Cancer project](https://againstcancer.eventicrea.es)
-
-- 🤝 I’m looking for help with **Easy Customer Feedback project**
-
 - 📝 I regularly write articles on [https://decomprasporlared.com](https://decomprasporlared.com)
 
 - 💬 Ask me about **Web3, Solidity, ReactJs, Docker, Azure, Machine Learning, Computer vision**
@@ -27,20 +23,19 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fgamezf&show_icons=true&locale=en&layout=compact" alt="fgamezf" /></p>
 
 # Main projects and repositories
-- ## Social Crypto Stats
-  Live demo [here](https://socialcrypto.decomprasporlared.com)
+- ## EasyCustomerFeedback
+  Live demo [here](https://eventicrea.es/proyecto-easycustomerfeedback/)
   <br/>
-![alt Social Crypto Stats project](https://github.com/fgamezf/socialcryptostats/blob/5be76ee0d0a53db7376bd3b33f27d4992ab04a68/screenshot/socialcryptostats.png)
-
-- ## AgainstCancer (smartcontract, blockchain)
-  Live demo [here](https://againstcancer.eventicrea.es)
-  <br/>
-![alt Against Cancer project](https://github.com/fgamezf/againstcancer/blob/a3af8043141dc5ff43929b0ab720f5aa778681a4/screenshot/againstcancer.png)
-
+![alt EasyCustomerFeedback project](https://eventicrea.es/wp-content/uploads/2021/09/easycf.png)
 - ## deComprasPorLaRed
   Live demo [here](https://decomprasporlared.com)
   <br/>
 ![alt deComprasPorLaRed project](https://github.com/fgamezf/Asesor-inteligente-de-productos-de-Internet/blob/9bf99b32ad30b466e95a7d63c8762390c8bd2adb/screenshots/decomprasporlared.png)
+- ## Social Crypto Stats
+![alt Social Crypto Stats project](https://github.com/fgamezf/socialcryptostats/blob/5be76ee0d0a53db7376bd3b33f27d4992ab04a68/screenshot/socialcryptostats.png)
+- ## AgainstCancer (smartcontract, blockchain)
+![alt Against Cancer project](https://github.com/fgamezf/againstcancer/blob/a3af8043141dc5ff43929b0ab720f5aa778681a4/screenshot/againstcancer.png)
 
-- ## EasyCustomerFeedback
-![alt EasyCustomerFeedback project](https://eventicrea.es/wp-content/uploads/2021/09/easycf.png)
+
+
+
