@@ -23,8 +23,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fgamezf&show_icons=true&locale=en&layout=compact" alt="fgamezf" /></p>
 
 # Main projects and repositories
-- ## EasyCustomerFeedback
-  Live demo [here](https://eventicrea.es/proyecto-easycustomerfeedback/)
+- ## Gestualy / EasyCustomerFeedback
+  Live demo [here](https://gestualy.com)
   <br/>
 ![alt EasyCustomerFeedback project](https://eventicrea.es/wp-content/uploads/2021/09/easycf.png)
 - ## deComprasPorLaRed
