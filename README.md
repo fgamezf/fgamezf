@@ -26,7 +26,6 @@
   <br/>
 ![alt EasyCustomerFeedback project](https://eventicrea.es/wp-content/uploads/2021/09/easycf.png)
 - ## deComprasPorLaRed
-  Live demo [here](https://decomprasporlared.com)
   <br/>
 ![alt deComprasPorLaRed project](https://github.com/fgamezf/Asesor-inteligente-de-productos-de-Internet/blob/9bf99b32ad30b466e95a7d63c8762390c8bd2adb/screenshots/decomprasporlared.png)
 - ## Social Crypto Stats
