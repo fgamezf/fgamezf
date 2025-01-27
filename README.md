@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Cloud, Kubernetes, Web3, Solidity, NFT**
 
-- 📝 I regularly write articles on [https://decomprasporlared.com](https://decomprasporlared.com)
-
-- 💬 Ask me about **Web3, Solidity, ReactJs, Docker, Azure, Machine Learning, Computer vision**
+- 💬 Ask me about **LLMs, Ollama, Web3, Solidity, ReactJs, Docker, Azure, Machine Learning, Computer vision**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
